@@ -1,1 +1,1 @@
-A simple desktop python app: Face Detection
+A simple desktop python app: Face Detection OPENCV
