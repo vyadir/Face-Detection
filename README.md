@@ -1,0 +1,1 @@
+A simple desktop python app: Face Detection
